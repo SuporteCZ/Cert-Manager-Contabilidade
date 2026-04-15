@@ -1,7 +1,5 @@
-# Ignorar certificados (Segurança)
-*.pfx
-*.p12
-*.cer
+# Ignorar a pasta de certificados e todo o seu conteúdo
+certificados/
 
 # Ignorar arquivos de log e temporários
 *.log
