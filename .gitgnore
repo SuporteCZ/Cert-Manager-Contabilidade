@@ -1,5 +1,5 @@
-# Ignorar a pasta de certificados e todo o seu conteúdo
-certificados/
+# Ignorar os certificados da pasta
+certificados/*.pfx
 
 # Ignorar arquivos de log e temporários
 *.log
